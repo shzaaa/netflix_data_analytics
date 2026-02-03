@@ -18,7 +18,7 @@ The project includes:
 
 ## Project Structure
 data_analytics/
-├── data/ # Raw and cleaned datasets
-├── notebooks/Netflix_EDA.ipynb # Jupyter notebook for data cleaning, feature engineering, and exploratory data
-├── dashboard/ -Yet to create
-├── README.md # Project description
+- data/ # Raw and cleaned datasets
+- notebooks/Netflix_EDA.ipynb # Jupyter notebook for data cleaning, feature engineering, and exploratory data
+- dashboard/ -Yet to create
+- README.md # Project description
